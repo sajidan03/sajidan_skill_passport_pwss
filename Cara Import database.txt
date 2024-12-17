@@ -1,0 +1,8 @@
+Cara Import database:
+1. Buka PhpMyAdmin
+2. Buat database dengan nama skillpassport_namasiswa
+3. Klik menu import
+4. Klik tombol choose file/pilih file
+5. Pilih file database.sql
+6. Klik tombol kirim
+7. Silakan cek databasenya
